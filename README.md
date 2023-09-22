@@ -43,6 +43,23 @@ Hasil pelabelan dari 14807 data yang telah dikumpulkan. Dari data tersebut mengh
 
 ![Pie_Chart_Labelpng](https://github.com/Grofyyy/Analisis-Sentimen-Twitter-Pembatalan-Piala-Dunia-u-20/assets/92924319/2460d677-49a0-4b61-8fff-e1b12a01bc05)
 
+## WorldCloud
+
+World Cloud merupakan daftar kata yang sering muncul antara label positif, negatif dan netral.
+
+### Positif Sentiment
+
+![image](https://github.com/Grofyyy/Analisis-Sentimen-Twitter-Pembatalan-Piala-Dunia-u-20/assets/92924319/5324fa92-65b2-440f-b095-74ae59423dae)
+
+### Negatif Sentiment
+
+![image](https://github.com/Grofyyy/Analisis-Sentimen-Twitter-Pembatalan-Piala-Dunia-u-20/assets/92924319/f8003098-9cc8-4e76-8f71-5a1672e84d18)
+
+
+### Netral Sentiment
+
+![image](https://github.com/Grofyyy/Analisis-Sentimen-Twitter-Pembatalan-Piala-Dunia-u-20/assets/92924319/ea0452bf-b8e6-4dc5-90b4-a56732ea59bb)
+
 ## Text Pre-processing
 Setelah berhasil dilakukan Pelabelan langkah selanjutnya adalah melakukan Text Pre-processing. Tahapan ini merupakan proses untuk menyeleksi data text agar menjadi terstruktur. Karena teks yang ingin dilakukan analisis sentimen berbahasa Indonesia maka kolom yang akan disimpan dalam data adalah teks berbahasa Indonesia dan Label. Text Pre-processing memiliki beberapa tahapan yaitu case folding, cleaning data, tokenizing, normalisasi, stopwords dan stemming.
 
