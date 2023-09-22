@@ -136,8 +136,8 @@ dalam analisis sentimen.
 metode SVM dalam menganalisa data yang dimasukan atau diinput secara
 external.
 
-## Pengujian dengan Pembagian Data Training dan Data Testing
-
+## Pengujian 
+### Pengujian dengan Pembagian Data Training dan Data Testing
 Pada tahap pengujian ini akan dilakukan pembagian data training dan testing
 sebanyak 60:40, 70:30 dan 80:20 dari 14807 total data yang telah dikumpulkan.
 Data training yang telah dibagi akan digunakan untuk dipelajari oleh sistem
@@ -152,7 +152,7 @@ dataset 80:20 dan kernel rbf mendapatkan hasil yang lebih baik dibanding kernel
 linear maupun polynomial dengan mendapatkan hasil Accuracy 78.15%, F1-Score
 76.30%, Precision 77.37% dan Recall 75.58%.
 
-## Pengujian dengan Input teks Berbahasa Indonesia
+### Pengujian dengan Input teks Berbahasa Indonesia
   
 <img width="536" alt="Hasil_InputTeks" src="https://github.com/Grofyyy/Analisis-Sentimen-Twitter-Pembatalan-Piala-Dunia-u-20/assets/92924319/39643b37-da22-4d76-a4a6-18b6ca1b4584">
 
