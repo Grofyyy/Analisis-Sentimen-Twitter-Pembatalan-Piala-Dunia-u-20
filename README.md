@@ -45,7 +45,7 @@ Hasil pelabelan dari 14807 data yang telah dikumpulkan. Dari data tersebut mengh
 
 ## WorldCloud
 
-World Cloud merupakan daftar kata yang sering muncul antara label positif, negatif dan netral.
+World Cloud merupakan daftar kata yang memiliki frekuensi kemunculan paling tinggi diantara label positif, negatif dan netral.
 
 ### Positif Sentiment
 
